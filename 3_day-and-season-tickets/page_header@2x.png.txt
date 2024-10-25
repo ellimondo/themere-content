@@ -1,0 +1,17 @@
+Caption: 
+
+----
+
+Alt: Alt text
+
+----
+
+Link: 
+
+----
+
+Uuid: ZvNAyk7GS6oKcJ6o
+
+----
+
+Template: image

@@ -1,0 +1,151 @@
+Title: Home
+
+----
+
+Herotitle: Catch and release fly fishing on the edge of London.
+
+----
+
+Herobutton-title: Book day tickets!
+
+----
+
+Herobutton-link: mailto:info@themereflyfishing.com
+
+----
+
+Herobutton-active: false
+
+----
+
+Youtube:
+
+input: https://youtu.be/dh_IpTuzl9I
+media:
+  title: >
+    A fly over The Mere fly fishing lake in
+    Shepperton
+  description: "A slow drift over the water at The Mere Fly Fishing's newly cleaned and restocked Lake Three in Shepperton."
+  url: 'https://www.youtube.com/watch?v=dh_IpTuzl9I&feature=youtu.be'
+  tags:
+    - video
+    - sharing
+    - camera phone
+    - video phone
+    - free
+    - upload
+  image: >
+    https://i.ytimg.com/vi/dh_IpTuzl9I/hqdefault.jpg
+  feeds: [ ]
+  code: '<iframe width="200" height="113" src="https://www.youtube.com/embed/dh_IpTuzl9I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="A fly over The Mere fly fishing lake in Shepperton"></iframe>'
+  width: 200
+  height: 113
+  aspectRatio: 56.5
+  authorName: The Mere Fly Fishing
+  authorUrl: >
+    https://www.youtube.com/@TheMereFlyFishing
+  providerIcon: >
+    https://www.youtube.com/s/desktop/f2c92168/img/favicon_144x144.png
+  providerName: YouTube
+  providerUrl: https://www.youtube.com/
+  publishedTime:
+    date: 2024-10-17 02:16:19.000000
+    timezone_type: 1
+    timezone: -07:00
+  license: null
+
+----
+
+Heroimage: - file://fh7jCuZxRwdGe3I2
+
+----
+
+Intro: *The Mere* is a new venture offering a premium quality fishing experience for all levels of ability, featuring four lakes close to Shepperton village and nearby station with a direct connection to London Waterloo.
+
+----
+
+Outro: We stock *rainbow* and *brown* trout regularly throughout the season across two of our lakes, with plans to expand capacity to a third this season.
+
+----
+
+Introimage: - file://O4KfSsyih2T2oyBV
+
+----
+
+Outroimage: - file://YKhuAhKAEkqpZBnu
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: The Mere Fly Fishing in Shepperton
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Text: 
+
+----
+
+Uuid: BJvN7wOODZmmHKMB
+
+----
+
+Herobutton: mailto:info@themereflyfishing.com

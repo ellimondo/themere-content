@@ -1,0 +1,81 @@
+Title: Location
+
+----
+
+Headerimage: - file://NAhVML6atW4Koq3Z
+
+----
+
+Text:
+
+The Mere is just an hour by train from London Waterloo and minutes from the M3 and M25. Close to all local shops, cafés, restaurants and pubs in Shepperton and a short walk to the River Thames.
+
+(map:)
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: fbV3CgEzLskrifz1

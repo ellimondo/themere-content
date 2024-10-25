@@ -1,0 +1,102 @@
+Title: Fishing Rules
+
+----
+
+Headerimage: 
+
+----
+
+Text:
+
+*   Fly fishing only.
+*   Pike and Perch fishing (Lake 4) by prior arrangement.
+*   Fishing tickets must be purchased prior to fishing or as soon as staff are in attendance at the lodge.
+*   Only barbless/de-barbed hooks can be used.
+*   Fish being released should not be removed from the water.
+*   Only knotless/seamless landing nets can be used.
+*   All brown trout & coarse fish must be released back to the water throughout the year.
+*   Should you wish, you may take two Rainbow trout (maximum) per fishing session. These fish must be weighed by fishery staff before you leave and you will be charged £5.00 per LB pound weight over and above your fishing ticket.
+*   Foul hooked/damaged fish must be surrendered at the lodge.
+*   Please report all catches at the lodge prior to departing.
+*   The management reserve the right to refuse admission.
+*   Under 18s must be accompanied by an adult.
+*   No litter or fishing line/hooks/tackle/etc whatsoever is to be left on the fishery.
+*   Only single hook flies can be used, up to size 10 longshank maximum.
+*   Teams of up to two flies may be used.
+*   Do not disturb wildlife and keep away from nesting birds.
+*   Do not damage any vegetation.
+*   No dogs are allowed without prior permission.
+*   No radios.
+*   No night fishing.
+*   No wading.
+*   Access to all islands is forbidden.
+
+The fishery rules may be added to and amended from time to time by the management without prior notice and apply to all those persons using Halliford Mere Lakes at all times.
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: z2Gf5WPBCvHJzDXt

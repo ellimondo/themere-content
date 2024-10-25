@@ -1,0 +1,89 @@
+Title: Day and season tickets
+
+----
+
+Headerimage: - file://ZvNAyk7GS6oKcJ6o
+
+----
+
+Text:
+
+Opening times: October to June, depending on water temperature.
+
+Day tickets (catch and release only)) £40
+
+All day tickets must be purchased in advance.
+
+Annual membership £650. 
+
+Members have unlimited access in daylight hours during the fishing season.
+
+To book your day ticket or find out about membership, email (email: info@themereflyfishing.com) or call Fishery Manager Nathan Bowman on (tel: +49123456789 text: 07989 855730).
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: 6tyCjM1mluvT2vjx
