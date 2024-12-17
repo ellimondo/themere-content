@@ -46,7 +46,7 @@ Analytics:
 
 ----
 
-Message-text: Opening soon for day tickets
+Message-text: Open from Friday 20th December for catch and release day tickets
 
 ----
 
