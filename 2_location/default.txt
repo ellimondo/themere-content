@@ -14,7 +14,7 @@ The Mere is just an hour by train from London Waterloo and minutes from the M3 a
 
 ----
 
-Metatitle: 
+Metatitle: Catch and release fly fishing in Shepperton
 
 ----
 
@@ -26,7 +26,7 @@ Usetitletemplate: true
 
 ----
 
-Metadescription: 
+Metadescription: Fly fishing for trout close to Shepperton village with a direct train connection to London Waterloo.
 
 ----
 
