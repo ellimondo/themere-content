@@ -76,7 +76,7 @@ Outroimage: - file://YKhuAhKAEkqpZBnu
 
 ----
 
-Metatitle: 
+Metatitle: Catch and release fly fishing close to London
 
 ----
 
@@ -88,7 +88,7 @@ Usetitletemplate: true
 
 ----
 
-Metadescription: 
+Metadescription: Fly fishing for trout, catch and release only, on the edge of London in Shepperton, Surrey.
 
 ----
 
