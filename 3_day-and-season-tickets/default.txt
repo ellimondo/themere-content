@@ -22,7 +22,7 @@ To book your day ticket or find out about membership, email (email: info@themere
 
 ----
 
-Metatitle: 
+Metatitle: Fly fishing day tickets and membership
 
 ----
 
@@ -34,7 +34,7 @@ Usetitletemplate: true
 
 ----
 
-Metadescription: 
+Metadescription: Day and season tickets available for catch and release trout fishing on the edge of London.
 
 ----
 
