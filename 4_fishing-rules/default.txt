@@ -35,7 +35,7 @@ The fishery rules may be added to and amended from time to time by the managemen
 
 ----
 
-Metatitle: 
+Metatitle: Fishery rules
 
 ----
 
@@ -47,7 +47,7 @@ Usetitletemplate: true
 
 ----
 
-Metadescription: 
+Metadescription: Day and season tickets welcome for catch and release fly fishing for trout.
 
 ----
 
