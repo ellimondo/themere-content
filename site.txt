@@ -46,7 +46,7 @@ Analytics:
 
 ----
 
-Message-text: Open from Friday 20th December for catch and release day tickets
+Message-text: Open for day tickets Friday to Sunday 9am to dusk
 
 ----
 
