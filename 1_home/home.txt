@@ -60,11 +60,11 @@ Heroimage: - file://fh7jCuZxRwdGe3I2
 
 ----
 
-Intro: *The Mere* is a new venture offering a premium quality fishing experience for all levels of ability, featuring four lakes close to Shepperton village and nearby station with a direct connection to London Waterloo.
+Intro: *The Mere* is a new venture offering a premium quality fishing experience for all levels of ability close to Shepperton village and nearby station with a direct connection to London Waterloo.
 
 ----
 
-Outro: We stock *rainbow* and *brown* trout regularly throughout the season across two of our lakes, with plans to expand capacity to a third this season.
+Outro: We stock *rainbow* and *brown* trout regularly throughout the season for catch and release day tickets and members.
 
 ----
 
