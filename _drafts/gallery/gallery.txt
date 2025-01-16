@@ -26,7 +26,7 @@ Usetitletemplate: true
 
 ----
 
-Metadescription: 
+Metadescription: A gallery of the work we are doing at The Mere to improve the facilities and the welfare of the fish.
 
 ----
 
@@ -54,23 +54,23 @@ Twitterauthor:
 
 ----
 
-Robotsindex: default
+Robotsindex: true
 
 ----
 
-Robotsfollow: default
+Robotsfollow: true
 
 ----
 
-Robotsarchive: default
+Robotsarchive: true
 
 ----
 
-Robotsimageindex: default
+Robotsimageindex: true
 
 ----
 
-Robotssnippet: default
+Robotssnippet: true
 
 ----
 
