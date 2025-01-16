@@ -6,11 +6,11 @@ Headerimage:
 
 ----
 
-Text: We are working hard to improve The Mere to improve the welfare of the fish and the quality of experience we give to our visitors.
+Text: We are working hard at The Mere to improve the welfare of the fish and the quality of experience we give to our visitors.
 
 ----
 
-Gallery: [{"content":{"location":"kirby","image":["file://8wuZOkvMNk8YITBD"],"src":"","alt":"","caption":"Lake one","link":"","ratio":"","crop":"false"},"id":"0ef61d40-4091-43b6-8cec-9241c6a8a6ba","isHidden":false,"type":"image"},{"content":{"images":["file://xaCYpOmbuwb7eIdK","file://fQAzNKb2VKKAntFz","file://8wuZOkvMNk8YITBD","file://mNNMhJQ72zREGY1M","file://4KIYlHrlHHOn0kIM","file://UepY22sVcGTsSbmv","file://5AxyJyu883jgn7ND","file://KaJISlzk8AdnDpGk","file://WJKFYU1zgiCLJ2PD"],"caption":"","ratio":"","crop":"false"},"id":"b1b2ec12-4039-471c-a482-098c5786d27d","isHidden":false,"type":"gallery"},{"content":{"images":["file://KaJISlzk8AdnDpGk","file://5AxyJyu883jgn7ND"],"caption":"Before and after the clean up on Lake 3","ratio":"","crop":"false"},"id":"0f1eae1f-e458-4010-921c-38818a7d6466","isHidden":false,"type":"gallery"}]
+Gallery: [{"content":{"location":"kirby","image":["file://8wuZOkvMNk8YITBD"],"src":"","alt":"","caption":"Lake 1","link":"","ratio":"","crop":"false"},"id":"0ef61d40-4091-43b6-8cec-9241c6a8a6ba","isHidden":false,"type":"image"},{"content":{"images":["file://4KIYlHrlHHOn0kIM","file://UepY22sVcGTsSbmv"],"caption":"The Weedmuncher in action on Lake 2","ratio":"","crop":"false"},"id":"b1b2ec12-4039-471c-a482-098c5786d27d","isHidden":false,"type":"gallery"},{"content":{"images":["file://KaJISlzk8AdnDpGk","file://5AxyJyu883jgn7ND"],"caption":"Before and after the clean up on Lake 3","ratio":"","crop":"false"},"id":"0f1eae1f-e458-4010-921c-38818a7d6466","isHidden":false,"type":"gallery"}]
 
 ----
 
