@@ -6,11 +6,19 @@ Headerimage:
 
 ----
 
-Text: 
+Text: We are working hard to improve The Mere to improve the welfare of the fish and the quality of experience we give to our visitors.
 
 ----
 
 Gallery: 
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
 
 ----
 
@@ -19,6 +27,10 @@ Usetitletemplate: true
 ----
 
 Metadescription: 
+
+----
+
+Ogtemplate: 
 
 ----
 
@@ -31,6 +43,14 @@ Ogdescription:
 ----
 
 Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
 
 ----
 
