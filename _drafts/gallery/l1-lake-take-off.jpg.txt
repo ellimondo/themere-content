@@ -1,0 +1,5 @@
+Uuid: mNNMhJQ72zREGY1M
+
+----
+
+Template: blocks/image
