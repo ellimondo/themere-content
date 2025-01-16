@@ -26,7 +26,7 @@ Usetitletemplate: true
 
 ----
 
-Metadescription: A gallery of the work we are doing at The Mere to improve the facilities and the welfare of the fish.
+Metadescription: A gallery showing the work we have been doing at The Mere to improve the facilities, the quality of the water and the welfare of the fish.
 
 ----
 
