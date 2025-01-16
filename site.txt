@@ -86,11 +86,11 @@ Twittercardtype: summary_large_image
 
 ----
 
-Robotsindex: true
+Robotsindex: default
 
 ----
 
-Robotsfollow: true
+Robotsfollow: default
 
 ----
 
@@ -98,11 +98,11 @@ Robotsarchive: default
 
 ----
 
-Robotsimageindex: true
+Robotsimageindex: default
 
 ----
 
-Robotssnippet: true
+Robotssnippet: default
 
 ----
 
