@@ -65,7 +65,7 @@ Message-text: Open for day tickets Friday to Sunday 9am to dusk
 
 ----
 
-Active: false
+Active: true
 
 ----
 
