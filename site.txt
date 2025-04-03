@@ -61,6 +61,18 @@ Analytics:
 
 ----
 
+Message-text: Open for day tickets Friday to Sunday 9am to dusk
+
+----
+
+Active: false
+
+----
+
+Add-link: 
+
+----
+
 Metatemplate: {{ title }} – The Mere Fly Fishing Shepperton
 
 ----
@@ -117,18 +129,6 @@ facebook: >
 instagram: ""
 youtube: ""
 linkedin: ""
-
-----
-
-Message-text: Open for day tickets Friday to Sunday 9am to dusk
-
-----
-
-Active: true
-
-----
-
-Add-link: 
 
 ----
 
