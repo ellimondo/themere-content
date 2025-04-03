@@ -61,7 +61,7 @@ Analytics:
 
 ----
 
-Message-text: Open for day tickets Friday to Sunday 9am to dusk
+Message-text: Open for day tickets Friday to Sunday 9am to 5pm
 
 ----
 
