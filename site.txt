@@ -61,7 +61,7 @@ Analytics:
 
 ----
 
-Message-text: Open for day tickets Friday to Sunday 9am to 5pm
+Message-text: Closed to day tickets due to high water temperature
 
 ----
 
