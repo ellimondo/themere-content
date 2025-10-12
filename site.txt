@@ -61,7 +61,7 @@ Analytics:
 
 ----
 
-Message-text: Open for day tickets - book now!
+Message-text: Open for day tickets - call now!
 
 ----
 
