@@ -25,7 +25,7 @@ Sociallinks:
 
 ----
 
-Footer-text: Contact us at (email:info@themereflyfishing.com?subject=Website%20enquiry" text: info@themereflyfishing.com) or call Fishery Manager Nathan Bowman on (tel: +441932 9050500 text: 01932 905050) to book your day ticket or enquire about membership.
+Footer-text: Contact us at (email:info@themereflyfishing.com?subject=Website%20enquiry" text: info@themereflyfishing.com) or call Fishery Manager Nathan Bowman on (tel: +441932 9050500 text: 07989 855730) to book your day ticket or enquire about membership.
 
 ----
 
