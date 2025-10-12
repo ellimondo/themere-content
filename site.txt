@@ -61,7 +61,7 @@ Analytics:
 
 ----
 
-Message-text: Closed to day tickets due to high water temperature
+Message-text: Open for day tickets - book now!
 
 ----
 
@@ -69,7 +69,7 @@ Active: true
 
 ----
 
-Message-link: page://6tyCjM1mluvT2vjx
+Message-link: tel:01932905050
 
 ----
 
