@@ -61,7 +61,7 @@ Analytics:
 
 ----
 
-Message-text: Open for day tickets - call now!
+Message-text: Currently closed to day tickets
 
 ----
 
@@ -69,7 +69,7 @@ Active: true
 
 ----
 
-Message-link: tel:01932905050
+Message-link: 
 
 ----
 
