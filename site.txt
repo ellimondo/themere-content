@@ -61,7 +61,7 @@ Analytics:
 
 ----
 
-Message-text: Currently closed to day tickets
+Message-text: Open to day tickets Friday-Sunday
 
 ----
 
@@ -81,19 +81,19 @@ Metadescription:
 
 ----
 
-Ogtemplate: 
-
-----
-
 Ogdescription: 
 
 ----
 
-Ogsitename: 
+Ogimage: 
 
 ----
 
-Ogimage: 
+Ogtemplate: 
+
+----
+
+Ogsitename: 
 
 ----
 

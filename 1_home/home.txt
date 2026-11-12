@@ -6,11 +6,11 @@ Herotitle: Catch and release fly fishing on the edge of London.
 
 ----
 
-Herobutton-title: Find out about membership
+Herobutton-title: Book a day ticket
 
 ----
 
-Herobutton-link: mailto:info@themereflyfishing.com
+Herobutton-link: tel:01932905050
 
 ----
 
@@ -84,19 +84,11 @@ Metatemplate: The Mere Fly Fishing Shepperton
 
 ----
 
-Usetitletemplate: true
-
-----
-
 Metadescription: Fly fishing for trout, catch and release only, on the edge of London in Shepperton, Surrey.
 
 ----
 
-Ogtemplate: 
-
-----
-
-Useogtemplate: true
+Noindex: false
 
 ----
 
@@ -105,6 +97,18 @@ Ogdescription:
 ----
 
 Ogimage: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
 
 ----
 
